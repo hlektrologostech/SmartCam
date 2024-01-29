@@ -55,10 +55,17 @@ ______
 ___
 Παρακάτω δίνεται όλη η λίστα των βασικών εξαρτημάτων του κυκλώματος : 
 
-* Raspberry Pi
-* Camera Module
-* Digital Ultrasonic  Sensor
-* Τροφοδοτικό
-* Κύκλωμα ενδεικτικών led
-* Coral USB Accelerator
-* ESP32 Development Board 
+| A/A | υλικό                                                     | τεμ | τιμή μονάδας |
+|-----|-----------------------------------------------------------|-----|--------------|
+| 1   | Raspberry Pi                                              | 1   | 96,9         |
+| 2   | Camera Module Based on ESP32 with ESP32-CAM-MB adapter    | 1   | 12,8         |
+| 3   | power supply                                              | 2   | 14,8         |
+| 4   | 6 DOF Aluminium Arm Clamp Claw Machinery Mechanical Robot | 1   | 57,04        |
+| 5   | Camera                                                    | 1   | 42,8         |
+| 6   | MG996R Servo 180degrees                                   | 6   | 9,5          |
+| 7   | Motor shield                                              | 1   | 29,9         |
+| 8   | διάφορα μικρό υλικά                                       | 1   | 50           |
+
+Η παραπάνω τιμές είναι ενδεικτικές κι οι τρέχουσες στη συγκεκριμένη περίοδο.
+
+Το συνολικό κόστος του project είναι περίπου στο 375 ευρώ
